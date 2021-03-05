@@ -1,0 +1,8 @@
+1,Barfi,Hindi,2012-02-05
+2,Avengers,English,2013-04-03
+3,Three Idiots,Hindi,2016-10-21
+4,Student of the Year,Hindi,2018-12-24
+5,Talaash,Hindi,2019-11-14
+6,Madagaskar,english,2020-08-23
+7,Sparsh,Marathi,2021-09-12
+8,Mi Shivaji,marathi,2021-05-15

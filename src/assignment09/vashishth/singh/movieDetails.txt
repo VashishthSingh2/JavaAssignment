@@ -1,0 +1,5 @@
+1,Barfi,Bollywood,Hindi,2020-02-20,8.7,23000.45,Muni,Vashishth,Sunil,Ramesh
+2,Purani Jeans,Bollywood,Hindi,2020-12-11,6.7,55700.42,Ravi Kishan,Sonu Nigam,Rajpal Yadav,Manoj Pajpeyi
+3,Thor,Hollywood,English,2019-08-14,8.9,50000.46,Chris Hemsworth,Tom Hiddleston,Taika Waititi,Taika Waititi
+4,Avengers,Hollywood,English,2015-04-20,8.4,23040.42,Thanos,Spider-Man,Wanda Maximoff,Doctor Strange
+5,Drishyam,Tollywood,Tamil,2012-05-12,9.3,23000.45,Naresh,Venkatesh,Meena,Esther,Nadhiya,Kruthika Jayakumar
